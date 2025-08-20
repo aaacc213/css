@@ -1,8 +1,8 @@
 const servers = [
-    { id: 1, ip: 'eve.mc6.cn', port: 20090, online: false, players: 0, maxPlayers: 2025 },
-    { id: 2, ip: 'eve.mc6.cn', port: 20087, online: false, players: 0, maxPlayers: 2025 },
-    { id: 3, ip: 'mew.mc6.cn', port: 14452, online: false, players: 0, maxPlayers: 2025 },
-    { id: 4, ip: 'ace.mc6.cn', port: 24024, online: false, players: 0, maxPlayers: 2025 }
+    { id: 1, ip: 'eve.mc6.cn', port: 20090, online: false, players: 0, maxPlayers: 999 },
+    { id: 2, ip: 'eve.mc6.cn', port: 20087, online: false, players: 0, maxPlayers: 999 },
+    { id: 3, ip: 'era.mc6.cn', port: 27077, online: false, players: 0, maxPlayers: 999 },
+    { id: 4, ip: 'era.mc6.cn', port: 27109, online: false, players: 0, maxPlayers: 999 }
 ];
 
 
