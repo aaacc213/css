@@ -1,6 +1,6 @@
 const servers = [
     { id: 1, ip: 'eve.mc6.cn', port: 20090, online: false, players: 0, maxPlayers: 999 },
-    { id: 2, ip: 'eve.mc6.cn', port: 20087, online: false, players: 0, maxPlayers: 999 },
+    { id: 2, ip: 'tea.mc6.cn', port: 11095, online: false, players: 0, maxPlayers: 999 },
     { id: 3, ip: 'era.mc6.cn', port: 27077, online: false, players: 0, maxPlayers: 999 },
     { id: 4, ip: 'era.mc6.cn', port: 27109, online: false, players: 0, maxPlayers: 999 }
 ];
